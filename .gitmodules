@@ -1,0 +1,15 @@
+[submodule "js"]
+	path = js
+	url = https://github.com/hilbix/nq-js.git
+[submodule "doc"]
+	path = doc
+	url = https://github.com/hilbix/nq-doc.git
+[submodule "python"]
+	path = python
+	url = https://github.com/hilbix/nq-py.git
+[submodule "php"]
+	path = php
+	url = https://github.com/hilbix/nq-php.git
+[submodule "java"]
+	path = java
+	url = https://github.com/hilbix/nq-java.git
